@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Untitled-1.png">
+	<!-- Created with Adobe Animate version 21.0.9.42677 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="bruhh0000" x="0" y="0" width="1531" height="848"/>
+	<SubTexture name="bruhh0001" x="1531" y="0" width="1531" height="848"/>
+	<SubTexture name="bruhh0002" x="3062" y="0" width="1527" height="844" frameX="-4" frameY="-4" frameWidth="1531" frameHeight="848"/>
+	<SubTexture name="bruhh0003" x="4589" y="0" width="1511" height="828" frameX="-20" frameY="-18" frameWidth="1531" frameHeight="848"/>
+	<SubTexture name="bruhh0004" x="6100" y="0" width="1509" height="825" frameX="-22" frameY="-21" frameWidth="1531" frameHeight="848"/>
+	<SubTexture name="bruhh0005" x="0" y="848" width="1508" height="825" frameX="-23" frameY="-21" frameWidth="1531" frameHeight="848"/>
+	<SubTexture name="bruhh0006" x="1508" y="848" width="1509" height="826" frameX="-22" frameY="-20" frameWidth="1531" frameHeight="848"/>
+	<SubTexture name="bruhh0007" x="3017" y="848" width="1514" height="830" frameX="-17" frameY="-16" frameWidth="1531" frameHeight="848"/>
+	<SubTexture name="bruhh0008" x="4531" y="848" width="1529" height="846" frameX="-2" frameY="-2" frameWidth="1531" frameHeight="848"/>
+	<SubTexture name="bruhh0009" x="6060" y="848" width="1531" height="848"/>
+	<SubTexture name="bruhh0010" x="0" y="0" width="1531" height="848"/>
+</TextureAtlas>

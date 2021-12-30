@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "sonicX IDLE",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-40,
+				-33
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "sonicx LEFT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-10,
+				-50
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "sonicx RIGHT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				20,
+				-70
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "sonicx DOWN",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				5,
+				71
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "sonicx UP",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/lord",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "lord",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		0,
+		0
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

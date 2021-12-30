@@ -1,0 +1,48 @@
+{
+	"storyName": "so many souls to play with...",
+	"hideFreeplay": false,
+	"weekBackground": "sonic",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"songs": [
+		[
+			"i am god",
+			"sonictwo",
+			[
+				255,
+				0,
+				0
+			]
+		],
+		[
+			"hill of the void",
+			"sonictwo",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"race with the devil",
+			"sonictwo",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"consolex",
+		"bf",
+		"gf"
+	],
+	"weekName": "Round 2"
+}

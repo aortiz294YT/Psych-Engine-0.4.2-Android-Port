@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="master.png">
+	<!-- Created with Adobe Animate version 21.0.9.42677 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="master0000" x="0" y="0" width="3111" height="1703"/>
+	<SubTexture name="master0001" x="0" y="0" width="3111" height="1703"/>
+	<SubTexture name="master0002" x="0" y="0" width="3111" height="1703"/>
+	<SubTexture name="master0003" x="0" y="0" width="3111" height="1703"/>
+	<SubTexture name="master0004" x="0" y="0" width="3111" height="1703"/>
+	<SubTexture name="master0005" x="0" y="0" width="3111" height="1703"/>
+	<SubTexture name="master0006" x="0" y="0" width="3111" height="1703"/>
+	<SubTexture name="master0007" x="0" y="0" width="3111" height="1703"/>
+	<SubTexture name="master0008" x="0" y="0" width="3111" height="1703"/>
+	<SubTexture name="master0009" x="3111" y="0" width="3111" height="1703"/>
+	<SubTexture name="master0010" x="3111" y="0" width="3111" height="1703"/>
+	<SubTexture name="master0011" x="3111" y="0" width="3111" height="1703"/>
+	<SubTexture name="master0012" x="3111" y="0" width="3111" height="1703"/>
+	<SubTexture name="master0013" x="3111" y="0" width="3111" height="1703"/>
+	<SubTexture name="master0014" x="3111" y="0" width="3111" height="1703"/>
+	<SubTexture name="master0015" x="0" y="1703" width="3111" height="1703"/>
+	<SubTexture name="master0016" x="0" y="1703" width="3111" height="1703"/>
+	<SubTexture name="master0017" x="0" y="1703" width="3111" height="1703"/>
+	<SubTexture name="master0018" x="0" y="1703" width="3111" height="1703"/>
+	<SubTexture name="master0019" x="0" y="1703" width="3111" height="1703"/>
+	<SubTexture name="master0020" x="0" y="1703" width="3111" height="1703"/>
+	<SubTexture name="master0021" x="0" y="1703" width="3111" height="1703"/>
+	<SubTexture name="master0022" x="0" y="1703" width="3111" height="1703"/>
+	<SubTexture name="master0023" x="0" y="1703" width="3111" height="1703"/>
+	<SubTexture name="master0024" x="0" y="1703" width="3111" height="1703"/>
+	<SubTexture name="master0025" x="0" y="1703" width="3111" height="1703"/>
+	<SubTexture name="master0026" x="0" y="1703" width="3111" height="1703"/>
+	<SubTexture name="master0027" x="0" y="1703" width="3111" height="1703"/>
+	<SubTexture name="master0028" x="0" y="1703" width="3111" height="1703"/>
+	<SubTexture name="master0029" x="0" y="1703" width="3111" height="1703"/>
+	<SubTexture name="master0030" x="0" y="1703" width="3111" height="1703"/>
+	<SubTexture name="master0031" x="3111" y="1703" width="3111" height="1703"/>
+	<SubTexture name="master0032" x="3111" y="1703" width="3111" height="1703"/>
+	<SubTexture name="master0033" x="3111" y="1703" width="3111" height="1703"/>
+	<SubTexture name="master0034" x="3111" y="1703" width="3111" height="1703"/>
+	<SubTexture name="master0035" x="3111" y="1703" width="3111" height="1703"/>
+	<SubTexture name="master0036" x="3111" y="1703" width="3111" height="1703"/>
+</TextureAtlas>

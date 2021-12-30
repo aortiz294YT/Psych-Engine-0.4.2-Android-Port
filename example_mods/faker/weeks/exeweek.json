@@ -1,0 +1,39 @@
+{
+	"storyName": "too slow buddy!",
+	"hideFreeplay": false,
+	"weekBackground": "exe",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "weekexe2",
+	"startUnlocked": false,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"faker",
+			"faker",
+			[
+				0,
+				60,
+				193
+			]
+		],
+		[
+			"black-sun",
+			"exe",
+			[
+				0,
+				0,
+				93
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Faker"
+}

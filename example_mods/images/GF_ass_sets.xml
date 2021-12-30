@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="GF_ass_sets.png">
+	<!-- Created with Adobe Animate version 21.0.9.42677 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="gfscared0000" x="0" y="0" width="310" height="394"/>
+	<SubTexture name="gfscared0001" x="310" y="0" width="309" height="393" frameX="0" frameY="0" frameWidth="310" frameHeight="394"/>
+	<SubTexture name="gfscared0002" x="619" y="0" width="309" height="392" frameX="-1" frameY="-2" frameWidth="310" frameHeight="394"/>
+	<SubTexture name="gfscared0003" x="0" y="394" width="309" height="393" frameX="-1" frameY="0" frameWidth="310" frameHeight="394"/>
+</TextureAtlas>
